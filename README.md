@@ -1,3 +1,3 @@
 # MOSFET-array
-a custom relay like array but with MOSFETS because they are better and each one can be broken of to use alone
+when i was learning electronics i learned mosfets and transistors before those 5v relay modules and i was curios to why people still use relay modules i found out its because they are simpler and more mechanical than mosfet which makes them easy to learn about so i decided to make a mosfet array that is similar to those blue 5v relay modules so people can switch easily and also i realized relay are more expansive and not always available in the local market , unlike mosfets with are every where and dirt cheap, ideas : array consists of 12 high power switches, also i should use through hole components to make the design easy to read ,make the pcb in a way where if you just need 1 high power switche you can just snap the pcb with seems on it , and you can use its pinsockets or the connectors that have a screw to tighten the stray wire
 
